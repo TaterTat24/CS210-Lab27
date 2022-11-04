@@ -1,7 +1,7 @@
 /** lab27-1.c
 * ===========================================================
-* Name: FIRST LAST, DATE
-* Section: SECTION
+* Name: Benjamin Tat
+* Section: T6
 * Project: Progamming Assessment 2 Practice
 * ===========================================================  */
 
@@ -27,4 +27,3 @@ int main(void) {
     
     return 0;
 }
-
